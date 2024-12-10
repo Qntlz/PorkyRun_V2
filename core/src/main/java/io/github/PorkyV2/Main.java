@@ -8,5 +8,5 @@ public class Main extends Game {
     public void create() {
         setScreen(new FirstScreen());
     }
-    // Test
+    // Tests
 }
